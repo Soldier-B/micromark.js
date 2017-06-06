@@ -34,3 +34,6 @@ If the function is called to mark text it will return an array of `mark` element
     
     // mark all occurrences of multiple words by exact match
     Mark(document.body, 'the and yellow', { mode: Mark.EXACT_MATCH, separate: true });
+
+#### Live Demo
+A live demo is available on [jsfiddle](https://jsfiddle.net/r0pa9mb5/).
